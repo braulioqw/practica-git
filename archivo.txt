@@ -1,1 +1,2 @@
 "Hola, este es mi primer archivo en Git"
+"Esta es una segunda línea agregada después del primer commit"
